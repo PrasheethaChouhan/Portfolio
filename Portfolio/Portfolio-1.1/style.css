@@ -1,0 +1,23 @@
+h1
+{
+  color: red;
+  border-bottom: 5px dotted blue;
+}
+.header
+{
+    background-color: yellow;
+    display:flex;
+    justify-content: center;
+}
+.menu
+{
+   background-color: aqua; 
+   opacity: 0.3;
+}
+body
+{
+    background-image: url("https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px 1200px;
+}        
